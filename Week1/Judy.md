@@ -8,7 +8,6 @@ struct ContentView: View {
         let gradient = Gradient(colors: [.green, .yellow])
         
         HStack {
-            //            Text("검색어를 입력하세요.")
             TextField("검색어를 입력하세요.", text: $text)
                 .padding(.leading, 10)
             Spacer()
@@ -46,6 +45,6 @@ struct ContentView: View {
 
 ## 사진
 
-| 입력 | 돋보기 버튼 | 
+| 입력 | 돋보기 이미지 탭 | 
 | -------- | -------- |
 |![Simulator Screenshot - iPhone 14 Pro - 2023-12-07 at 22 00 44](https://github.com/KTRJB/SwiftUI_Study/assets/102353787/405b5e62-cf4d-413b-98b0-eec95d04569e)|  ![Simulator Screenshot - iPhone 14 Pro - 2023-12-07 at 22 01 04](https://github.com/KTRJB/SwiftUI_Study/assets/102353787/84b81fe0-aa78-458d-bc58-159b5130845e)| 
