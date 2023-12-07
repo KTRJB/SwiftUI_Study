@@ -1,3 +1,5 @@
+# 코드
+
 ```swift
 import SwiftUI
 
@@ -204,3 +206,8 @@ struct ContentView: View {
     ContentView()
 }
 ```
+
+# 사진
+
+![SooKkongResultUI](https://github.com/KTRJB/SwiftUI_Study/assets/99063327/87be0d44-3b18-407c-9c60-c71a93bbffbc)
+
