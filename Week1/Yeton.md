@@ -1,4 +1,4 @@
-```
+```Swift
 //
 //  ContentView.swift
 //  SwiftUI-Playgrounds
@@ -66,7 +66,7 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-
-
 ```
+<img width="218" alt="스크린샷 2023-12-07 오후 10 05 19" src="https://github.com/KTRJB/SwiftUI_Study/assets/98514397/7618b906-47c1-4eef-b82b-63785b0f5010">
+
 <img width="218" alt="스크린샷 2023-12-07 오후 10 03 04" src="https://github.com/KTRJB/SwiftUI_Study/assets/98514397/1e1d0e1b-1706-4319-88b1-a511c1b4c482">
