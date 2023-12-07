@@ -16,6 +16,6 @@
   - [키워드 형식](https://github.com/yongbeomkwak/import-SwiftUI)
 
 ## 🏝 커밋 규칙
-> 알잘딱깔센
-> 각자의 프로젝트를 파일로 나누고 관리합니다.
-- 폴더구조: Week~/닉네임/파일 `(ex. /Week1/groot/project)`
+> 각자의 문서를 만들어서 업로드 합니다.
+> code + gif or photo
+- 폴더구조: Week~/닉네임.md `(ex. /Week1/Groot.md)`
