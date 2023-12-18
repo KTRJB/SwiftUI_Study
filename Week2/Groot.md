@@ -24,7 +24,7 @@ public extension Color {
 
 struct WeekTwoView: View {
     let store: StoreOf<WeekTwoViewReducer>
-    // 둘의 차이는 없다
+
     let columns: [GridItem] = [
         GridItem(.flexible(), spacing: 5, alignment: nil),
         GridItem(.flexible(), spacing: 5, alignment: nil),
