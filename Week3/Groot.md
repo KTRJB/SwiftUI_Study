@@ -1,4 +1,5 @@
-```import SwiftUI
+```swift
+import SwiftUI
 
 struct Week3DayView: View {
     @State var isRatate: Bool = false
